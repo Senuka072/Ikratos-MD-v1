@@ -41,22 +41,22 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
-global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sig = 'https://www.instagram.com/sen.thisath/' //Link Instagrammu
+global.sgh = 'https://github.com/Senuka072' //Link Githubmu
+global.sgc = '-'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
-global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
+global.snh = '-' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '94710548515' //Nomor Danamu
+global.ppulsa = '+94710548515' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '94710548515' //Nomor Bot
+global.nomorown = '94710548515' //Nomor Owner
+global.namebot = 'SenBot' //Nama Bot
+global.nameown = 'Sen' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -103,13 +103,13 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
+global.wm = '「 SenBot 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ SenBot ˚꒷︶꒷꒥꒷'
+global.wm3 = 'SenBot'
+global.footerTXT = `SenBot • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +94 71 054 8515`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ SenBot'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
@@ -137,7 +137,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '+94 71 054 8515'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -177,10 +177,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
+global.stickpack = 'SenBot'
+global.stickauth = `「 SenBot 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.packname2 = 'Created By SenBot'
 
 global.multiplier = 38 // The higher, The harder levelup
 
